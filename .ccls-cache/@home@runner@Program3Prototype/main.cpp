@@ -14,7 +14,7 @@ using namespace std;
 
  
 
-void printStrongNess(string& input)
+void printStrongNess(string & input)
 
  
 
